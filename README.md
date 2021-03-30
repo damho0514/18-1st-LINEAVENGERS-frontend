@@ -1,5 +1,5 @@
 # LINE AVENGERS Team Project🚀
-
+![asdasdsss](https://user-images.githubusercontent.com/62652799/112935179-39f14a80-915e-11eb-8390-f2b22fcb1f64.gif)
 - 라인 프렌즈 공식 브랜드 스토어 [라인 프렌즈](https://brand.naver.com/linefriends/?nt_source=emnet_google_sa&nt_medium=search&nt_detail=store_re&nt_keyword=%EB%9D%BC%EC%9D%B8%ED%94%84%EB%A0%8C%EC%A6%88%EC%8A%A4%ED%86%A0%EC%96%B4&gclid=Cj0KCQjw0oCDBhCPARIsAII3C_G5hk0U7oBt7hxnkXbrAIzXJNvyDTyIDjC5Iaq8xvmfj630FrdYUH0aAiQGEALw_wcB) 클론 프로젝트.
 - 개발 시간의 비중을 높이기 위해 이미 서비스 중인 사이트의 기획과 디자인을 클론하여 진행했습니다.
 - 초기 세팅부터 전부 직접 구현했으며, 아래 데모 영상에서 보이는 부분은 모두 백엔드와 연결하여 실제 사용할 수 있는 서비스 수준으로 개발했습니다.
